@@ -12,10 +12,10 @@ export function Events() {
   const upcomingEvents = [
     {
       title: "AI & Machine Learning Summit",
-      date: "March 15, 2024",
+      date: "Date to be announced",
       time: "9:00 AM - 6:00 PM",
       location: "BAC Main Conference Room",
-      attendees: "200+ Registered",
+      attendees: "40+ Registered",
       type: "Conference",
       description: "Join industry leaders and AI experts for a day of insights into the future of artificial intelligence and machine learning applications.",
       featured: true,
@@ -26,10 +26,10 @@ export function Events() {
     },
     {
       title: "Startup Pitch Night",
-      date: "March 22, 2024",
+      date: "Date to be announced",
       time: "6:00 PM - 9:00 PM",
       location: "BAC Main Conference Room",
-      attendees: "85 Registered",
+      attendees: "25 Registered",
       type: "Networking",
       description: "Watch promising startups pitch their ideas to a panel of investors and industry experts. Network with entrepreneurs and VCs.",
       featured: false,
@@ -40,10 +40,10 @@ export function Events() {
     },
     {
       title: "Full-Stack Development Workshop",
-      date: "March 28, 2024",
+      date: "Date to be announced",
       time: "2:00 PM - 5:00 PM",
       location: "BAC Main Conference Room",
-      attendees: "45 Registered",
+      attendees: "18 Registered",
       type: "Workshop",
       description: "Hands-on workshop covering modern full-stack development techniques using React, Node.js, and cloud deployment strategies.",
       featured: false,
@@ -90,10 +90,10 @@ export function Events() {
   ];
 
   const stats = [
-    { number: "200+", label: "Events Yearly" },
-    { number: "15K+", label: "Attendees" },
-    { number: "95%", label: "Satisfaction Rate" },
-    { number: "50+", label: "Partner Companies" }
+    { number: "12+", label: "Events Yearly" },
+    { number: "250+", label: "Annual Attendees" },
+    { number: "85%", label: "Satisfaction Rate" },
+    { number: "8+", label: "Partner Organisations" }
   ];
 
   return (

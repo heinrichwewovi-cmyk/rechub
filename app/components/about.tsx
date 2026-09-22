@@ -51,10 +51,10 @@ export function About() {
   ];
 
   const achievements = [
-    { icon: Trophy, number: "5+", label: "Years of Experience" },
-    { icon: TrendingUp, number: "100+", label: "Startups Supported" },
-    { icon: Users, number: "50+", label: "Mentors & Experts" },
-    { icon: Award, number: "90%", label: "Founder Satisfaction" },
+    { icon: Trophy, number: "2+", label: "Years of Experience" },
+    { icon: TrendingUp, number: "12+", label: "Startups Supported" },
+    { icon: Users, number: "15+", label: "Mentors & Experts" },
+    { icon: Award, number: "85%", label: "Founder Satisfaction" },
   ];
 
   return (

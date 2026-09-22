@@ -7,7 +7,7 @@ export function Team() {
     {
       name: "Jonas Wewovi",
       role: "Chief Executive Officer",
-      bio: "IT professional and ecosystem builder with a BSc in Information Technology and over four years’ experience in software development, technical training, and business development coaching. Jonas has mentored 200+ youth across Ghana and currently supports innovation initiatives with Afri-Consult (GIZ DTEG) and Northern Innovation Lab.",
+      bio: "IT professional and ecosystem builder with a BSc in Information Technology and over four years’ experience in software development, technical training, and business development coaching. Jonas has mentored young people across Ghana and currently supports innovation initiatives with Afri-Consult (GIZ DTEG) and Northern Innovation Lab.",
       social: {
         linkedin: "https://www.linkedin.com/in/jonas-wewovi-904309154"
       }

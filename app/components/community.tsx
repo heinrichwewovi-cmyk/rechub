@@ -36,7 +36,7 @@ export function Community() {
     {
       name: "Sarah Akiwebe",
       role: "Founder, AI Startup",
-      content: "The mentorship and network I gained here was invaluable. Within 6 months, we raised our Series A and scaled to 50+ employees.",
+      content: "The mentorship and network I gained here was invaluable. Within 6 months, we had clearer traction and a stronger story to share with investors.",
       initials: "SA",
       avatar: "",
       rating: 5,
@@ -66,7 +66,7 @@ export function Community() {
     {
       icon: Users,
       title: "Active Members",
-      value: "2,500+",
+      value: "120+",
       description: "Entrepreneurs, developers, and innovators",
       color: "from-blue-500 to-cyan-500",
       trend: "+15% this month"
@@ -74,7 +74,7 @@ export function Community() {
     {
       icon: Calendar,
       title: "Events Per Month",
-      value: "20+",
+      value: "2+",
       description: "Workshops, meetups, and networking sessions",
       color: "from-green-500 to-emerald-500",
       trend: "5 events this week"
@@ -82,7 +82,7 @@ export function Community() {
     {
       icon: BookOpen,
       title: "Learning Resources",
-      value: "500+",
+      value: "40+",
       description: "Courses, tutorials, and industry insights",
       color: "from-purple-500 to-pink-500",
       trend: "50 new resources"
@@ -90,7 +90,7 @@ export function Community() {
     {
       icon: Zap,
       title: "Projects Launched",
-      value: "150+",
+      value: "12+",
       description: "Successful startups and products",
       color: "from-orange-500 to-amber-500",
       trend: "12 this quarter"
@@ -102,7 +102,7 @@ export function Community() {
       icon: MessageCircle, 
       label: "Instagram", 
       href: "#", 
-      members: "2.5K+",
+      members: "120+",
       color: "from-purple-500 to-indigo-500",
       description: "Live community chat"
     },
@@ -110,7 +110,7 @@ export function Community() {
       icon: Github, 
       label: "Facebook", 
       href: "#", 
-      members: "1.8K+",
+      members: "80+",
       color: "from-gray-700 to-gray-900",
       description: "Open source projects"
     },
@@ -118,7 +118,7 @@ export function Community() {
       icon: Linkedin, 
       label: "LinkedIn", 
       href: "#", 
-      members: "3.2K+",
+      members: "150+",
       color: "from-blue-600 to-blue-800",
       description: "Professional network"
     },
@@ -126,16 +126,16 @@ export function Community() {
       icon: Twitter, 
       label: "X", 
       href: "#", 
-      members: "4.1K+",
+      members: "60+",
       color: "from-sky-400 to-blue-500",
       description: "Daily updates"
     }
   ];
 
   const upcomingEvents = [
-    { title: "AI Innovation Workshop", date: "Dec 15", attendees: "120+" },
-    { title: "Founder Networking Mixer", date: "Dec 18", attendees: "80+" },
-    { title: "Tech Career Fair", date: "Dec 22", attendees: "200+" },
+    { title: "AI Innovation Workshop", date: "Date to be announced", attendees: "35+" },
+    { title: "Founder Networking Mixer", date: "Date to be announced", attendees: "25+" },
+    { title: "Tech Career Fair", date: "Date to be announced", attendees: "50+" },
   ];
 
   return (
@@ -347,7 +347,7 @@ export function Community() {
             </div>
             
             <p className="text-sm text-gray-400 mt-4">
-              Join 5,000+ subscribers. No spam, unsubscribe anytime.
+              Join 120+ subscribers. No spam, unsubscribe anytime.
             </p>
           </div>
         </div>

@@ -21,7 +21,7 @@ export function Programs() {
         "Go-to-market strategy"
       ],
       badge: "Most Popular",
-      stats: "92% Success Rate",
+      stats: "80% Complete",
       color: "from-blue-500 to-cyan-500"
     },
     {
@@ -36,7 +36,7 @@ export function Programs() {
         "Job placement assistance"
       ],
       badge: "Career Track",
-      stats: "1000+ Graduates",
+      stats: "30+ Graduates",
       color: "from-green-500 to-emerald-500"
     },
     {
@@ -51,7 +51,7 @@ export function Programs() {
         "Resource library"
       ],
       badge: "Flexible",
-      stats: "5000+ Members",
+      stats: "120+ Members",
       color: "from-purple-500 to-pink-500"
     },
     {
@@ -66,16 +66,16 @@ export function Programs() {
         "Custom solutions"
       ],
       badge: "Enterprise",
-      stats: "50+ Partners",
+      stats: "8+ Partners",
       color: "from-orange-500 to-red-500"
     },
   ];
 
   const stats = [
-    { icon: Users2, number: "10,000+", label: "Alumni Network" },
-    { icon: Star, number: "94%", label: "Success Rate" },
-    { icon: Building, number: "500+", label: "Startups Funded" },
-    { icon: Clock, number: "5 Years", label: "Proven Track Record" },
+    { icon: Users2, number: "120+", label: "Community Network" },
+    { icon: Star, number: "85%", label: "Participant Satisfaction" },
+    { icon: Building, number: "12+", label: "Startups Supported" },
+    { icon: Clock, number: "2 Years", label: "Building Locally" },
   ];
 
   return (
@@ -196,7 +196,7 @@ export function Programs() {
                 </span>
               </h3>
               <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
-                Join thousands of successful entrepreneurs and developers who have 
+                Join a growing group of entrepreneurs and developers who have 
                 transformed their ideas into thriving businesses through our programs.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">

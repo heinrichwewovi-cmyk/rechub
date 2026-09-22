@@ -31,19 +31,19 @@ export function Hero() {
   const stats = [
     {
       icon: Users,
-      value: "1,000+",
+      value: "120+",
       label: "Community Members",
       trend: "Founders, developers & mentors",
     },
     {
       icon: Rocket,
-      value: "100+",
+      value: "12+",
       label: "Startups Supported",
       trend: "Early to growth stage",
     },
     {
       icon: Lightbulb,
-      value: "300+",
+      value: "25+",
       label: "Innovation Projects",
       trend: "Ideas to MVPs",
     },

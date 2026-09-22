@@ -66,10 +66,10 @@ export function Footer() {
   ];
 
   const stats = [
-    { number: "5,000+", label: "Community Members" },
-    { number: "150+", label: "Startups Launched" },
-    { number: "GHC50M+", label: "Funding Raised" },
-    { number: "95%", label: "Success Rate" }
+    { number: "120+", label: "Community Members" },
+    { number: "12+", label: "Startups Supported" },
+    { number: "8+", label: "Partner Organisations" },
+    { number: "85%", label: "Participant Satisfaction" }
   ];
 
   return (
@@ -219,7 +219,7 @@ export function Footer() {
               <div className="flex-1">
                 <h3 className="text-2xl font-bold text-white mb-3">Stay in the Loop</h3>
                 <p className="text-gray-300 text-lg">
-                  Get the latest news, events, and opportunities delivered to your inbox. Join 10,000+ innovators.
+                  Get the latest news, events, and opportunities delivered to your inbox. Join 120+ innovators.
                 </p>
               </div>
               <div className="flex gap-3 max-w-md w-full">

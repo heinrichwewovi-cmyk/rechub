@@ -152,7 +152,7 @@ export function Header() {
               {/* Mobile Footer */}
               <div className="pt-6 border-t border-gray-200">
                 <div className="text-center text-sm text-gray-500">
-                  <p>Join 5,000+ innovators already with us</p>
+                  <p>Join 120+ innovators already with us</p>
                 </div>
               </div>
             </div>

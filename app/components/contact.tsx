@@ -82,9 +82,9 @@ console.log(res.statusText)
 
   const stats = [
     { number: "24h", label: "Average Response Time" },
-    { number: "95%", label: "Satisfaction Rate" },
-    { number: "5,000+", label: "Community Members" },
-    { number: "150+", label: "Startups Supported" }
+    { number: "85%", label: "Satisfaction Rate" },
+    { number: "120+", label: "Community Members" },
+    { number: "12+", label: "Startups Supported" }
   ];
 
   return (
@@ -315,7 +315,7 @@ console.log(res.statusText)
               </h3>
               
               <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
-                Join thousands of entrepreneurs, developers, and innovators who have 
+                Join our growing network of entrepreneurs, developers, and innovators who have
                 turned their vision into reality through our comprehensive programs and community support.
               </p>
               
